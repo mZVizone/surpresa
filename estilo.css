@@ -42,6 +42,13 @@ h1{
     text-align: justify;
 }
 
+}
+.p7{
+    color: black;
+    text-shadow: 2px 1.5px black;
+    text-align: justify;
+}
+
 body {
    
     font-family: 'Archivo Black', sans-serif;
